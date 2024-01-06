@@ -3,9 +3,10 @@
 # 💻 How to launch a bot?
 copy all files after go to file ```config.json``` indicate the bot token and your ID there, then run the code and that’s it!
 > [!NOTE]
->
+> Quote sending is triggered exactly at 8:00
 # 🔗 Links
 [my profile](https://discordapp.com/users/1153234959197274184)
+
 [devhub](https://discord.gg/MxsvEqFmww)
 # ⭐ Developers
 ZizaRDev - it`s me :)
